@@ -1,7 +1,8 @@
-# weather forecast
-# Video Demo:
-https://youtu.be/ay4kgskYyeM?si=Mx5n6s_ohT09v5yx 
 # final_cs50x_project_fall23
+# weather forecast
+#### Video Demo:
+<https://youtu.be/ay4kgskYyeM?si=Mx5n6s_ohT09v5yx>
+#### Description:
 Showing Example of Final Project ideas for Harvard CS50X
 This Python program utilizes the `requests` library to fetch weather data from the Open Meteo API based on the latitude and longitude of a specified city. The program then extracts and writes the hourly temperature forecast to a CSV file.
 
